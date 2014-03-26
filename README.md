@@ -1,4 +1,3 @@
 python_project
 ==============
-
-Project for building simple video games apps in python
+#Project for building simple games apps in python.
